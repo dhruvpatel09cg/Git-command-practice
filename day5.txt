@@ -1,3 +1,4 @@
-Name: Dhruv Patel
+Name: Dhruv Patel.git add .
+
 
 Today I learned about git status command which shows us the current state of our working directory.
