@@ -1,0 +1,3 @@
+Name: Dhruv Patel
+
+Today I learned about git status command which shows us the current state of our working directory.
