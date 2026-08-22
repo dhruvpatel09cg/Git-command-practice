@@ -1,4 +1,4 @@
-Name: Dhruv Patel
+Name: Dhruv Patel.
 
 Today I learned the command git log --oneline
 
