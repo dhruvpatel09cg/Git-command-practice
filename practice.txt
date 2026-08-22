@@ -1,0 +1,5 @@
+Name: Dhruv Patel
+
+Today I learned the command git log --oneline
+
+git commit adds changes from staging area to local repository while git push saves commited changes to remote repository.
