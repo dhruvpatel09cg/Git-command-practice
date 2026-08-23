@@ -1,0 +1,5 @@
+Today I learned about Pull Request.
+It is done on GitHub.
+It is just another way to merge branch but done on remote system.
+This is done so that your team or any senior project manager can review your code before merging it to the main branch.
+This is the professional way of merging branch which used in projects in IT industry.
