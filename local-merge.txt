@@ -1,0 +1,4 @@
+Today I learned about local merge.
+It is done on local system when there is no code reviewer and developer himself have to review it.
+It is good for learning purpose and for beginners.
+it is not a professional practice.
