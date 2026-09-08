@@ -1,0 +1,10 @@
+1. What is the difference between rm and git rm?
+
+-->Answer:
+    rm: It deletes untracked file from working directory only making the changes untracked.
+    git rm: It removes tracked file from working directory as well as  Staging Area, we only need to commit the changes made.
+
+2. When should you use git rm?
+
+-->Answers:
+    When we want to remove a tracked file from our Git repository and stage that deletion for your next commit.
