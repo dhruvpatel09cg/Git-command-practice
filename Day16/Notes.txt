@@ -1,1 +1,2 @@
 Today we are learning git reset.
+Reset commands are of 3 types.
