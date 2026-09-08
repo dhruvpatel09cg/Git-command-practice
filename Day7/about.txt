@@ -1,0 +1,2 @@
+Name: Dhruv Patel
+Today I learned about a command "git clone <link>" this command brings a copy of our remote repo to our local system so that we may change it.

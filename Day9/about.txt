@@ -1,0 +1,1 @@
+About.txt file on branch feature/about-page for Assignment of 17 August 2026.
