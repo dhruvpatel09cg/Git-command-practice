@@ -1,0 +1,15 @@
+Why should we ignore folders like vendor or node_modules?
+--> Answer
+    Folders like vendors and node_modules are of very large size, it may cause difficulties in pushing them to the GitHub and also they are note the part of our main code for project they only contains tools that we use in our project.
+
+Why should we ignore files like config.env or .env?
+--> Answer
+    Generally files like config.env or .env contains secret data about our project like passwords or API keys etc. so it is not recommended to publish these files on GitHub in oredr to keep them secure.
+
+What does git rm --cached do?
+--> Answers
+    this command removes file from git's staging area and tracking but keeps it available on local system(Working Directory).
+
+Why should we not add .gitignore inside .gitignore?
+--> Answer
+    We should not add .gitignore file inside .gitignore because it is also important to share that which files we have kept secret or ignored due to security purpose with your developing team or the manager. Adding .gitignore to .gitignore hides it.
