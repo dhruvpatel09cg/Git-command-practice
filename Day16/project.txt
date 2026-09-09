@@ -1,4 +1,2 @@
 This is project.txt for Day 16 Assignment 04.
-This Assignment is about combined practice of git reset and git revert
-We'll see some safety rule while using reset --hard command.
-Used--> git reset --soft HEAD~1.
+THis Assignment is about combined practice of git reset and git revert
