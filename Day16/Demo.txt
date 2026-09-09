@@ -1,4 +1,3 @@
 Demo.txt file for Day 16 Assignment 2.
-Assignment 2 is about difference between three types of git reset command.
 Assignment 3 is also uploaded through it.
 The third Assignment is about git revert command.
